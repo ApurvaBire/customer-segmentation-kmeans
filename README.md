@@ -5,8 +5,6 @@
 # customer-segmentation-kmeans
 # 📊 Customer Segmentation Project
 
-### Machine Learning Analysis + Business Intelligence Dashboard
-
 ## 📌 Project Overview
 
 This project performs customer segmentation using data analysis and machine learning techniques, followed by an interactive business dashboard for insight generation.
@@ -97,7 +95,9 @@ The dashboard enables stakeholders to quickly understand the customer base and m
 
 ## 🖼️ Dashboard Preview
 
-![Customer Segmentation Dashboard](Customer-Segmentation-Dashboard/Mall Customer Segmentation Dashboard img.jpeg)
+![Customer Segmentation Dashboard](./Customer-Segmentation-Dashboard/Mall Customer Segmentation Dashboard img.jpeg)
+
+---
 
 ## 💼 Business Applications
 
